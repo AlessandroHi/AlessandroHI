@@ -1,4 +1,4 @@
-### Hi, I'm Alessandro 👋
+### Hi, I'm Alessandro I am a science and systems engineering student.👋
 
 <div align="center">
   <a href="https://github.com/AlessandroHI">
