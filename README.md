@@ -1,14 +1,18 @@
 ### Hi, I'm Alessandro 👋
 ### I am a science and systems engineering student.
    # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroHi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ <div align="center">
+    <a href="https://github.com/AlessandroHI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHI&layout=compact&langs_count=7&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroHi&theme=tokyonight&hide_border=false"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </div>
+   
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlessandroHi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
     <hr/>
-     # 💻 Tech Stack:
+## 💻 Tech Stack:
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +23,6 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div><br>
     
-
   <div> 
     <a href = "mailto:ivanalessadroh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alessandro-hilario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
