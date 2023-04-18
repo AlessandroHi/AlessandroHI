@@ -7,9 +7,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlessandroHi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AlessandroHi&icon=1&color=1)](https://visitcount.itsvg.in)ht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&layout=compact&langs_count=7&theme=tokyonight"/>
     <hr/>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
