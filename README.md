@@ -1,5 +1,4 @@
-### Hi, I'm Alessandro 👋
-### I am a science and systems engineering student.
+
    # 📊 GitHub Stats:
 
  <div align="center">
