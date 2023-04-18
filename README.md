@@ -1,9 +1,16 @@
 ### Hi, I'm Alessandro 👋
 ### I am a science and systems engineering student.
   <div align="center">
-    <a href="https://github.com/AlessandroHi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroHI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&layout=compact&langs_count=7&theme=tokyonight"/>
+   # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroHi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlessandroHi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AlessandroHi&icon=1&color=1)](https://visitcount.itsvg.in)ht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
     <hr/>
   <div style="display: inline_block"><br>
@@ -25,4 +32,6 @@
 
   ![Snake animation](https://github.com/AlessandroHI/AlessandroHI/blob/output/github-contribution-grid-snake.svg)
 
-  
+ 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
