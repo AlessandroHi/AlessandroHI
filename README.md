@@ -6,11 +6,9 @@
     <a href="https://github.com/AlessandroHI">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHI&layout=compact&langs_count=7&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroHi&theme=tokyonight&hide_border=false"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+       <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroHi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-contributor-stats.vercel.app/api?username=AlessandroHi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)"/>
   </div>
    
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlessandroHi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
     <hr/>
 ## 💻 Tech Stack:
   <div style="display: inline_block"><br>
